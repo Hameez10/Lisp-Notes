@@ -1,1 +1,1 @@
-
+If you are a Computer Science student at Toronto Metropolitan Univeristy (TMU), like me, you will have to take CPS305 - Data Structures at some point during your time at TMU. You need to pass this course to be able to take upp-level courses that explore more complex areas of Computer Science.
