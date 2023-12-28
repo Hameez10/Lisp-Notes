@@ -4,6 +4,8 @@ If you are a Computer Science student at Toronto Metropolitan Univeristy (TMU), 
 
 Learning Lisp can be a difficult task. It is very different than any of the other lanaguges you have learnt in the past; Python, Java, Assembly code, and Machine code. The CS community here at TMU have described the languages as a game of count the brackets, due to there being so many and often times the reason behind code not functioning.
 
-The method of learning Lisp is the same as any other langauge however. You can only understand it by practising. When I started learning Lisp, I woudl just read of the lecture slides. i thougt I was mking good progress adding annotations besides the slides, but I wasn't at my best. I only became comfortable in Lisp when I started coding it. 
+Approaching Lisp is no different from learning any other language – practice is key. When I began my journey with Lisp, I initially relied on reading lecture slides and making annotations, thinking I was making progress. However, true comfort with Lisp only came when I actively engaged in coding exercises.
 
-The first few weeks of the course you will doing a crash course on Lisp. It is going to be a lto fo information, but an acheivable amount of you put in the work. The first 2 labs will be difficult, but after that you will get the hang of it. You really want to grind Lisp until reading week as that will be the basics of the midterms. PLEASE READ THE STIDY GUIDE as that is all you need to do well on the exams (applies if you have Dr. Santos). 
+In the initial weeks of CPS305, brace yourself for a crash course in Lisp. It might feel overwhelming, but with dedication, it's a manageable amount of information. The first two labs might be challenging, but don't be discouraged – the learning curve becomes more manageable as you immerse yourself in the language.
+
+Consider a focused effort on Lisp in the early weeks of the course, as this foundation will prove crucial during midterms. Grind through practice problems and, importantly, refer to the study guide – especially if Dr. Santos is your instructor. The study guide is your key to success in the exams.
